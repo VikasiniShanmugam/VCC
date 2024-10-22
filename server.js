@@ -25,7 +25,7 @@ app.get("*", (req, res) =>
 );
 
 // MongoDB connection URL
-const mongoUrl = "mongodb+srv://VCC:1234@cluster.3ivou.mongodb.net/?retryWrites=true&w=majority&appName=Cluster";
+const mongoUrl = "mongodb+srv://vikasinishanmugam21:1234@cluster0.bq61k.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
 
 // Connecting to MongoDB using Mongoose
 mongoose
